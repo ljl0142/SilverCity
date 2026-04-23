@@ -1,0 +1,28 @@
+# --- Visual Studio 临时文件 ---
+.vs/
+out/
+build/
+bin/
+obj/
+*.user
+*.aps
+*.VC.db
+*.opendb
+
+# --- 编译输出 ---
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+x64/
+Debug/
+Release/
+
+# --- Box2D 源码与编译产物 ---
+box2d/
+
+# --- 操作系统临时文件 ---
+[Dd]s_[Ss]tore
+Thumbs.db
